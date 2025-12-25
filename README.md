@@ -5,6 +5,9 @@
 - Node.js 18+
 - OpenRouter API ключ
 
+## Changelog
+Список изменений: `CHANGELOG.md`.
+
 ## Быстрый старт
 ```bash
 npm install
