@@ -1,0 +1,9 @@
+{
+  "models": [
+    "mistralai/mistral-7b-instruct:free",
+    "deepseek/deepseek-r1-0528:free",
+    "meta-llama/llama-3.1-8b-instruct:free",
+    "google/gemma-2-9b-it:free",
+    "qwen/qwen-2.5-7b-instruct:free"
+  ]
+}

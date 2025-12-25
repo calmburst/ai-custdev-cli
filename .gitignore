@@ -137,3 +137,11 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+output/
+dist-test/
+/.idea/
+
+# Allow fixture logs in test snapshots
+!tests/fixtures/**/logs/
+!tests/fixtures/**/logs/*.json
+!tests/fixtures/**/app.log

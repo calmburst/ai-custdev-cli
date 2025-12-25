@@ -1,0 +1,73 @@
+2025-12-25T13:40:53.054Z [INFO] Generating personas...
+2025-12-25T13:41:54.534Z [INFO] Saved 10 personas to D:\dev\ai-custdev-cli\output\demo_cooking\2025-12-25_13-40-53Z__demo\personas.json
+2025-12-25T13:41:54.536Z [INFO] Simulating 10 interviews (skipping 0).
+2025-12-25T13:41:54.537Z [INFO] Interview p-001 (busy) question 1/5.
+2025-12-25T13:41:54.537Z [INFO] Interview p-002 (busy) question 1/5.
+2025-12-25T13:41:56.088Z [INFO] Interview p-002 (busy) question 2/5.
+2025-12-25T13:41:56.088Z [INFO] Interview p-001 (busy) question 2/5.
+2025-12-25T13:41:57.063Z [INFO] Interview p-002 (busy) question 3/5.
+2025-12-25T13:41:57.063Z [INFO] Interview p-001 (busy) question 3/5.
+2025-12-25T13:41:58.322Z [INFO] Interview p-002 (busy) question 4/5.
+2025-12-25T13:41:58.904Z [INFO] Interview p-001 (busy) question 4/5.
+2025-12-25T13:41:59.382Z [INFO] Interview p-002 (busy) question 5/5.
+2025-12-25T13:42:00.360Z [INFO] Interview p-001 (busy) question 5/5.
+2025-12-25T13:42:00.459Z [INFO] Interview completed for persona p-002 (busy).
+2025-12-25T13:42:00.460Z [INFO] Interview p-003 (busy) question 1/5.
+2025-12-25T13:42:01.337Z [INFO] Interview completed for persona p-001 (busy).
+2025-12-25T13:42:01.339Z [INFO] Interview p-004 (busy) question 1/5.
+2025-12-25T13:42:01.525Z [WARN] respondent response missing content (attempt 1/5).
+2025-12-25T13:42:03.229Z [INFO] Interview p-004 (busy) question 2/5.
+2025-12-25T13:42:03.862Z [INFO] Interview p-003 (busy) question 2/5.
+2025-12-25T13:42:04.508Z [INFO] Interview p-004 (busy) question 3/5.
+2025-12-25T13:42:04.669Z [INFO] Interview p-003 (busy) question 3/5.
+2025-12-25T13:42:05.533Z [INFO] Interview p-004 (busy) question 4/5.
+2025-12-25T13:42:05.725Z [INFO] Interview p-003 (busy) question 4/5.
+2025-12-25T13:42:06.648Z [INFO] Interview p-004 (busy) question 5/5.
+2025-12-25T13:42:06.745Z [INFO] Interview p-003 (busy) question 5/5.
+2025-12-25T13:42:07.525Z [INFO] Interview completed for persona p-003 (busy).
+2025-12-25T13:42:07.527Z [INFO] Interview p-005 (family) question 1/5.
+2025-12-25T13:42:07.643Z [INFO] Interview completed for persona p-004 (busy).
+2025-12-25T13:42:07.645Z [INFO] Interview p-006 (family) question 1/5.
+2025-12-25T13:42:08.030Z [WARN] respondent response missing content (attempt 1/5).
+2025-12-25T13:42:08.708Z [INFO] Interview p-005 (family) question 2/5.
+2025-12-25T13:42:09.744Z [INFO] Interview p-005 (family) question 3/5.
+2025-12-25T13:42:10.086Z [INFO] Interview p-006 (family) question 2/5.
+2025-12-25T13:42:10.798Z [INFO] Interview p-005 (family) question 4/5.
+2025-12-25T13:42:10.995Z [INFO] Interview p-006 (family) question 3/5.
+2025-12-25T13:42:12.008Z [INFO] Interview p-005 (family) question 5/5.
+2025-12-25T13:42:12.159Z [INFO] Interview p-006 (family) question 4/5.
+2025-12-25T13:43:18.197Z [INFO] Interview completed for persona p-005 (family).
+2025-12-25T13:43:18.199Z [INFO] Interview p-007 (family) question 1/5.
+2025-12-25T13:43:18.576Z [INFO] Interview p-006 (family) question 5/5.
+2025-12-25T13:43:19.499Z [INFO] Interview completed for persona p-006 (family).
+2025-12-25T13:43:19.500Z [INFO] Interview p-008 (health) question 1/5.
+2025-12-25T13:43:19.872Z [INFO] Interview p-007 (family) question 2/5.
+2025-12-25T13:43:21.077Z [INFO] Interview p-007 (family) question 3/5.
+2025-12-25T13:43:21.078Z [INFO] Interview p-008 (health) question 2/5.
+2025-12-25T13:43:21.858Z [INFO] Interview p-008 (health) question 3/5.
+2025-12-25T13:43:22.310Z [INFO] Interview p-007 (family) question 4/5.
+2025-12-25T13:43:23.295Z [INFO] Interview p-007 (family) question 5/5.
+2025-12-25T13:43:38.424Z [INFO] Interview p-008 (health) question 4/5.
+2025-12-25T13:43:39.288Z [INFO] Interview completed for persona p-007 (family).
+2025-12-25T13:43:39.290Z [INFO] Interview p-009 (health) question 1/5.
+2025-12-25T13:43:39.293Z [INFO] Interview p-008 (health) question 5/5.
+2025-12-25T13:43:40.163Z [INFO] Interview completed for persona p-008 (health).
+2025-12-25T13:43:40.165Z [INFO] Interview p-010 (health) question 1/5.
+2025-12-25T13:43:40.832Z [INFO] Interview p-009 (health) question 2/5.
+2025-12-25T13:43:41.423Z [INFO] Interview p-010 (health) question 2/5.
+2025-12-25T13:43:42.127Z [INFO] Interview p-009 (health) question 3/5.
+2025-12-25T13:43:42.331Z [INFO] Interview p-010 (health) question 3/5.
+2025-12-25T13:43:43.387Z [INFO] Interview p-010 (health) question 4/5.
+2025-12-25T13:43:43.582Z [INFO] Interview p-009 (health) question 4/5.
+2025-12-25T13:43:44.511Z [INFO] Interview p-010 (health) question 5/5.
+2025-12-25T13:44:16.914Z [INFO] Interview p-009 (health) question 5/5.
+2025-12-25T13:44:17.709Z [INFO] Interview completed for persona p-010 (health).
+2025-12-25T13:44:18.189Z [INFO] Interview completed for persona p-009 (health).
+2025-12-25T13:44:18.190Z [INFO] Simulation finished: 10 interviews saved.
+2025-12-25T13:44:18.193Z [INFO] Analyzing 10 sessions...
+2025-12-25T13:44:18.195Z [INFO] Analyzer fallback models (file): deepseek/deepseek-r1-0528:free, meta-llama/llama-3.1-8b-instruct:free, google/gemma-2-9b-it:free, qwen/qwen-2.5-7b-instruct:free
+2025-12-25T13:44:33.173Z [WARN] Analyzer parse failed for mistralai/mistral-7b-instruct:free, retrying once: Failed to parse analysis JSON: No JSON block found in LLM response.
+2025-12-25T13:44:42.972Z [INFO] Analysis complete. CSV saved to D:\dev\ai-custdev-cli\output\demo_cooking\2025-12-25_13-40-53Z__demo\analysis.csv
+2025-12-25T13:44:42.973Z [INFO] Summary saved to D:\dev\ai-custdev-cli\output\demo_cooking\2025-12-25_13-40-53Z__demo\summary.json
+2025-12-25T13:44:42.973Z [INFO] Requesting optimization advice...
+2025-12-25T13:44:57.523Z [INFO] Advice saved to D:\dev\ai-custdev-cli\output\demo_cooking\2025-12-25_13-40-53Z__demo\advice.md
